@@ -1,0 +1,10 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lab-paul/figma-tokens.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build"
+  }
+}
